@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622816007 source:e:\c++\arrays as adts\main.c
+	<stdio.h>
+	<stdlib.h>
+
